@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketplaceApi", "MarketplaceApi\MarketplaceApi.csproj", "{D7927D9A-04CB-4FCA-85B8-8C56253A1EA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketplaceApi.Tests", "MarketplaceApi.Tests\MarketplaceApi.Tests.csproj", "{B97D01AD-2AE9-431E-AAC4-E91D64CEFF36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7927D9A-04CB-4FCA-85B8-8C56253A1EA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7927D9A-04CB-4FCA-85B8-8C56253A1EA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7927D9A-04CB-4FCA-85B8-8C56253A1EA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7927D9A-04CB-4FCA-85B8-8C56253A1EA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B97D01AD-2AE9-431E-AAC4-E91D64CEFF36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B97D01AD-2AE9-431E-AAC4-E91D64CEFF36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B97D01AD-2AE9-431E-AAC4-E91D64CEFF36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B97D01AD-2AE9-431E-AAC4-E91D64CEFF36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
